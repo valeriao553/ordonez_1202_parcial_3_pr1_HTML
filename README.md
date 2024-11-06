@@ -2,6 +2,9 @@
 Practica html
 
 # Cascarita
-![image](https://github.com/user-attachments/assets/be1d8c2b-6c41-48c1-89ff-330f75cc2126)
-![image](https://github.com/user-attachments/assets/af3e7876-1dc2-4ce9-aea7-58148b80ee7f)
+![image](https://github.com/user-attachments/assets/a1989927-a4de-4cdf-b24f-04ba1838714e)
+![image](https://github.com/user-attachments/assets/0db11baf-b01d-4f65-a847-b9a8e20fdefc)
+
+
+
 
